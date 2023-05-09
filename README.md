@@ -70,3 +70,11 @@ MLOps를 위한 도구는 다양하지만, 머신러닝을 다루는 나에게�
 
 ## 세미나 발표
 - [MLOps를 위한 MLflow](https://github.com/jaeyeongs/mlflow_example/blob/main/seminar/MLOps%EB%A5%BC%20%EC%9C%84%ED%95%9C%20MLflow_%EC%8B%A0%EC%9E%AC%EC%98%81_230425.pdf)
+```
+├─seminar
+│  ├─conda.yaml
+│  ├─main.py
+│  ├─MLproject
+│  ├─predict.py
+│  └─preprocess.py
+```
